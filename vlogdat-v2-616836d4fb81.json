@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "vlogdat-v2",
+  "private_key_id": "616836d4fb8124342f851f267405ab10a9b6c6dd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDBgkZOJ7Xl+Q9m\nuyOB1w6NK7B6w8gH4K/0VBApaB+t6tewiBreSqc/16/KS5A+BU3bPDpvSaLxLCCG\nrRpOoo36Bg38rOlf1XAqCrePSOnytUmLdpxXC1Bck07NeFZyU+iUemc8T9SYiaPU\nnvoGZu66/UhGnRknLaOJLPRoZwUIsBJyDG2ovahKXxb8cxZslNiPPHkdtXxiHXNT\nCv8SkxMquaMTMOTS1LGTqE3IlJQAuUoFKtxRpQoC2GARXiFN2F4svwurlUYQT0z+\nkuZT/fYdE1RkVeXNe1iKJncpj6IZe1c2rMI1+NoQOBHiL1ddaDuoUan2ouL2mcPr\nlV06HUFRAgMBAAECggEAQY259nkCaI1ml8U2wqIRlmZiCzyu02hdAzbFINnavYas\nmeuJuptsrDaLoUrW6wPN+8KcAx5dejkaLbWPj2sHENejPmFvT91U+ZEW3Q303xll\n+D5uuRgmma33iKjHFETzqfULawWaPjCGlR1kEu4k2qi6Jt3KaxjNaUeW5pVbwbSY\nFqDncgfbTmagpAiS1f1ywi/CG2R8eD+MLk9lclYcsMZ+q3xXlX8YxNU8s/Au497k\naXCXA6poW5Ms2VvskzmQmoUWHRTXD6TOel8hCWfG6wX6UozB2r5nI/CgKvFJyO5u\n0dhdfKi5uN2wqggB8NeT2XpBNVjDz6F/0bCrCdJO1wKBgQD8SWpgNyl7i2qVOsMg\nXOutBPD/Kl7kMOXrp/zptY67zSo0QAArXN2KAjrrZYvVb0CU0RnB8cSc9rM/dolS\ncXdqrGxN/NHl6SJ2854uBIR2CSkx88nKwtGnRq1V1Z+7GWIu7gw4dAlxczlWeYKL\n1Pke3ek6iE8jO3D332f+c4VHjwKBgQDEW2Q3zvOMKmqt5nTZq/Zwx+RUlVmbCaMt\nFZBNlC9nDepNOAPc/qMq0hAWrf80Zn+4lXYXAqbEI7DBDgmjD0AzNqUwp2PKLyrf\n3WzvVDuyj81cfyTw63geB3nAaT8XykyNg8Wfebc0D5DMKpGAiGwbQx9IM8HKdi9B\nPnOSk+l5HwKBgFvIzeWxS+tBnoYqOcE1bRymVpNOs/UrAQsKM85HGmWiz77wpd8g\nywyhoRPw/r2o2wMJS+iub8x3SGFHW9BdrYdmsYRx/V86wSormZm+VP6oeI9O1VRq\nKmJEKV23+YPVSU4vlsyXErRuqiaW0HLVCck8DNUZsEjuIDxdz/TXzF5rAoGAKHyT\noHI6g3cnge3XwB4V9VEyAkK9NBt7mssscuKQF5al7gATw9h5OlYP3S1JRruvsBaZ\nP8tbKWwWgOftEsMNQMIOs4aAK+sn0vrsADkFCh9ef6jzq/1RShfOgd7xlG0w9ajq\n8aP+I2zmNUK9t5vpdoGTjKanWaCew7wlxl5bMI8CgYEA11LB+NlCSCtabW6z+du0\nnbm+RCyN8OIyW7Ie6/GCRysoBpH+o7ZubC6sUPQsfHbmHgRFSQr7w6HDQxksZPPf\nZUz4iLyGc7+uOf/9UitHB3WeR9A7IIOAf9cuQN1ZnpDJ6emq4gYqPfynsfjLaCRy\nNAAJa3lK/FoYuASNSRTNYfk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "jerriz@vlogdat-v2.iam.gserviceaccount.com",
+  "client_id": "107462807304712452604",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jerriz%40vlogdat-v2.iam.gserviceaccount.com"
+}
